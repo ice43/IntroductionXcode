@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CD253D852AF1399A007827CB /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = CD253D842AF1399A007827CB /* .gitignore */; };
+		CD2D98592AF256F1006C7CF2 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = CD2D98582AF256F1006C7CF2 /* .gitignore */; };
 		CD40537F2AF12198007DDDA3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD40537E2AF12198007DDDA3 /* AppDelegate.swift */; };
 		CD4053812AF12198007DDDA3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4053802AF12198007DDDA3 /* SceneDelegate.swift */; };
 		CD4053832AF12198007DDDA3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4053822AF12198007DDDA3 /* ViewController.swift */; };
@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CD253D842AF1399A007827CB /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = .gitignore; path = .git/.gitignore; sourceTree = "<group>"; };
+		CD2D98582AF256F1006C7CF2 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		CD40537B2AF12198007DDDA3 /* IntroductionXcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IntroductionXcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD40537E2AF12198007DDDA3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD4053802AF12198007DDDA3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		CD4053722AF12198007DDDA3 = {
 			isa = PBXGroup;
 			children = (
-				CD253D842AF1399A007827CB /* .gitignore */,
+				CD2D98582AF256F1006C7CF2 /* .gitignore */,
 				CD40537D2AF12198007DDDA3 /* IntroductionXcode */,
 				CD40537C2AF12198007DDDA3 /* Products */,
 			);
@@ -128,7 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD253D852AF1399A007827CB /* .gitignore in Resources */,
+				CD2D98592AF256F1006C7CF2 /* .gitignore in Resources */,
 				CD40538B2AF12199007DDDA3 /* LaunchScreen.storyboard in Resources */,
 				CD4053882AF12199007DDDA3 /* Assets.xcassets in Resources */,
 				CD4053862AF12198007DDDA3 /* Main.storyboard in Resources */,
